@@ -1,0 +1,14 @@
+Approach:
+
+1. Use 2 queues q1 and q1
+2. q1 will act as a primary queue and q2 will act as a support
+3. for pop(), transfer all but the last element to q2 from q1. pop the last element. swap roles of q1 and q2.
+4. for top(), transfer all the elements from q1 to q2. swap roles. return last element.
+
+Time complexity:
+push(): O(1)
+pop(): O(n)
+top(): O(n)
+empty(): O(1)
+
+Space complexity: O(n)

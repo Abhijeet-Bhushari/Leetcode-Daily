@@ -1,0 +1,8 @@
+Approach:
+
+1. If we close the shop at the current hour, 
+the penalty incurred = 'Y's after current + 'N's till current.
+2. calculate that and store the minimum hour at which the penalty is minimum.
+
+TC: O(3N)
+SC: O(2N)

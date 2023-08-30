@@ -1,0 +1,7 @@
+Approach:
+
+1. Start from the behind to get a fixed minimum from that point till the end.
+2. Just calculate the number of steps it takes and dont modify the array.
+
+Time complexity: O(N)
+Space complexity: O(N)

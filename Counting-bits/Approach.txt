@@ -1,0 +1,7 @@
+Approach: 
+
+1. Go through the entire array. 
+2. store the binary form data through modulo 2 system.
+
+Time Complexity: O(N*logN);
+Space Complexity: O(1);

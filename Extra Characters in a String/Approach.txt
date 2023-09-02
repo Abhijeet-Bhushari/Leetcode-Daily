@@ -1,0 +1,7 @@
+Approach: 
+
+1. Use recursion to calculate the minimum unused words after that index.
+2. Memoize the solution by storing the minimum unused words for each index in dp.
+
+Time Complexity: O(n*2 * 2*n);
+Space Complexity: O(n);

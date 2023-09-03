@@ -1,0 +1,6 @@
+Approach:
+ 1. Use a 2-D matrix to store the number of ways to reach each cell.
+ 2. The number of ways to reach each cell would be the number of ways of it's right cell + number of ways of it's top cell.
+
+ Time Complexity: O(N*M);
+ Space Complexity: O(N*M);

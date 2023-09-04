@@ -1,0 +1,6 @@
+Approach:
+
+1. We just make use of a slow and a fast pointer. This approach exploits the fact that a cycle will be caught after iterations.
+
+Time Complexity: O(N);
+Space Complexity: O(1);

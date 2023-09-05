@@ -1,0 +1,13 @@
+Approach:
+
+Using No extra space:
+1. Create a new linked list using the next pointer where the random is still assigned to NULL. 
+2. To assign random pointer to it's correct pointer, use two track pointers where the track2 is following track1 in it's own list.
+3. When the Node is found by track1 then track2 is assigned as random to temp.
+
+Using extra space: 
+1. Use a map data structure to map each Node of List1 to each Node of List2.
+2. When you want to assign random pointer just assign it the mapped Node of List2 to temp2->random.
+
+Time Complexity: O(N);      O(N*N);
+Space Complexity: O(N);     O(1);

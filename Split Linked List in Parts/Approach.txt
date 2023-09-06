@@ -1,0 +1,7 @@
+Approach: 
+
+1. Iterate over the Linked List and maintain a count variable for storing the current length. 
+2. When the required length is reached push it to the ans and repeat again for the remaining length.
+
+Time Complexity: O(N);
+Space Complexity: O(1);

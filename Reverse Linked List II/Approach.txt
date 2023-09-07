@@ -1,0 +1,6 @@
+Approach:
+
+1. Use the 3 pointer method to reverse the specific part of the linked list.
+
+Time Complexity: O(N);
+Space Complexity: O(1);

@@ -1,0 +1,9 @@
+Approach: 
+
+1. create two for loops, 1 for each row and 2 for each element in each row.
+2. in the second for loop, add the elements of the last row as the element there.
+
+Time Complexity: O(N*N);
+Space Complexity: O(N*N);
+
+Better approach does exist.

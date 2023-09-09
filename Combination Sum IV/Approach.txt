@@ -1,0 +1,7 @@
+Approach: 
+
+1. Use Recursion to find each possible combination of numbers leading to the target.
+2. Use Dynamic programming to store the number of combinations possible from each current sum till target.
+
+Time Complexity: O(n*n);
+Space Complexity: O(target);

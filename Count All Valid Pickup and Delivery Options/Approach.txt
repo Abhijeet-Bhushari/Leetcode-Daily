@@ -1,0 +1,9 @@
+Approach: 
+
+1. Use math to calculate the recursive relation between n & n - 1 size. 
+2. Implement the recursive function.
+
+Time Complexity: O(N);
+Space Complexity: O(N);
+
+Dynamic Programming Approach exists.

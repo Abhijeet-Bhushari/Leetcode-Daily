@@ -1,0 +1,7 @@
+Approach: 
+
+1. Use a vector to store the group no. first and then person no. in pairs. 
+2. push the result to ans such that it follows the condition.
+
+Time complexity: O(N);
+Space complexity: O(N);

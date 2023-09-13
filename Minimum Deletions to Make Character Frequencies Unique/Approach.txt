@@ -1,0 +1,8 @@
+Approach: 
+
+1. First, store the frequency of each character
+2. store the frequency of each number in the first map.
+3. use greedy algorithm to find the best solution. 
+
+Time Complexity: O(N*N);
+Space Complexity: O(N);

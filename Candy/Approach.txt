@@ -1,0 +1,18 @@
+Approach:
+
+1. A really hard question to solve first of all. In the thinking part we can conclude that the number of 
+    candies for an i depends on before and after the array. 
+
+2. To realize that you need to store the count of candies for each child, you need to realize that the 
+    we will have to revisit each child again to check for the right candy amount. 
+
+3. Create an array of candies which stores the number of candies for each child. 
+
+4. The first iteration stores the optimal number for the left neighbor. 
+
+5. The second iteration which is backwards stores the number of candies in accordance with right neighbor.
+
+6. After this we will get the final solution of the minimum candies each child will require.
+
+Time Complexity: O(N);
+Space Complexity: O(N);

@@ -1,0 +1,9 @@
+Approach: 
+
+1. Store the data in the form of the graph. 
+2. Order the paths in the sorted order lexicographically.
+3. Apply DFS on the graph to find the first path which will indeed be the lexicographically shortest path.
+
+Time Complexity: O(N*N);
+
+Space Complexity: O(N*N);

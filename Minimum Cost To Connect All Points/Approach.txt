@@ -1,0 +1,7 @@
+Approach: 
+
+1. Convert the points to an adjancency list. 
+2. Apply Prim's MST to the list and find the smallest cost.
+
+Time Complexity:
+Space Complexity: 

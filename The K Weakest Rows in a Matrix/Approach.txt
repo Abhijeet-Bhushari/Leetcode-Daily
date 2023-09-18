@@ -1,0 +1,9 @@
+Approach: 
+
+1. Easy question so just iterate through each row and use binary search to find the last 1.
+2. Store the position of last 1 in a pair list with position, row_index.
+3. Sort the list.
+4. create a res of size k and store the row_index in it and return it.
+
+Time Complexity: O(N*log(M));
+Space Complexity: O(N);

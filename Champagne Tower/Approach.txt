@@ -1,0 +1,7 @@
+Approach:
+
+2d matrix is used to simulate the glasses. 
+use it to calculate the champagne in the i, j glass. 
+
+Time Complexity: O(N*N);
+Space Complexity: O(N*N);

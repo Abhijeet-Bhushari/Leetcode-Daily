@@ -1,0 +1,12 @@
+Approach: 
+
+1. Take some time to think about the problem and you will realize that you can reduce the k to executable amount
+2. Traverse the string and calculate the size of the encoded string. 
+3. Traverse the string in reverse and divide the size by the digit if the value is a digit.
+4. Similarly reduce k by modulo the size of the current encoded string. 
+
+Very Intuitive Approach
+Greedy solution
+
+Time Complexity: O(N);
+Space Complexity: O(1);

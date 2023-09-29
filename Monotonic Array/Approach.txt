@@ -1,0 +1,6 @@
+Approach: 
+
+1. Easy problem just traverse the array and the problem is solved. 
+
+Time Complexity: O(N);
+Space Complexity: O(1);

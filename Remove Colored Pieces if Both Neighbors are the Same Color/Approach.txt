@@ -1,0 +1,6 @@
+Approach: 
+
+1. Just count the number of the As and Bs surrounded by A and B respectively and you have your answer.]
+
+Time Complexity: O(n);
+Space Complexity: O(1);

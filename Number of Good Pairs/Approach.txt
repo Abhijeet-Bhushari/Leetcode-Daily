@@ -1,0 +1,7 @@
+Approach:
+
+1. get the frequency of each element
+2. number of pairs is equal to Nc2 for that element.
+
+Time complexity: O(N);
+Space complexity: O(N);

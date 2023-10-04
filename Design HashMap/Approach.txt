@@ -1,0 +1,13 @@
+Approach:
+
+1. Great question: why? because I had never done this before and I always feared this question. I always feared that 
+I would be never able to get it. 
+
+2. Turns out that you just need to try solving a question and not think about it. 
+
+3. Solved through separate chaining implemented using vector of vectors. 
+
+4. The most optimal way of solving this would be to use balanced BSTs instead of vectors. 
+
+Time Complexity: O(N);
+Space Complexity: O(N);

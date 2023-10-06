@@ -1,0 +1,7 @@
+Binary Search: 
+
+1. Use binary search for getting the maximum product by comparing the product with it's adjacent products. 
+2. Use binary search in it to get it's factors. 
+
+Time Complexity: O(Log(N));
+Space Complexity: O(1);

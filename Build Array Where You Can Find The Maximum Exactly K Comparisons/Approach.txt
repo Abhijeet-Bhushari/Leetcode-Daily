@@ -1,0 +1,6 @@
+Approach: 
+
+Dynamic Programming problem with using Longest increasing subsequence. 
+
+Time Complexity: 
+Space Complexity: 

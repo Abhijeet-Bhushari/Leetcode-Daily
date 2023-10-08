@@ -1,0 +1,7 @@
+Approach: 
+
+1. 2d dp problem. firstly, we create a matrix of (n+1) X (m+1) size and initialize it with -1000000. 
+2. for each cell, get the max value for that cell by choosing from the past values. 
+
+Time Complexity: O(N*M);
+Space Complexity: O(N*M);

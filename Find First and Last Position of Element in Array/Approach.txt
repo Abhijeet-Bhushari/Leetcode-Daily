@@ -1,0 +1,6 @@
+Approach: 
+
+1. Very easy Binary Search problem and you just have to apply binary search 3 times to get the first and last position.
+
+Time Complexity: O(Log(N));
+Space Complexity: O(1);

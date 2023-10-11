@@ -1,0 +1,9 @@
+Approach: 
+
+1. Simple problem where the brute force is very intuitive and solvable
+2. To reduce the time complexity from O(N*N) to O(N*Log(N)) sort the flowers array.
+3. Get the flowers that bloomed before the person arrived and the flowers rotted before that person arrived. 
+4. The difference of bloomed and rotted is the answer to that person. 
+
+Time Complexity: O(M + N*log(N));
+Space Complexity: O(1);

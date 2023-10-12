@@ -1,0 +1,7 @@
+Approach: 
+
+1. Use binary search to find the peak first and then find the target element by binary search in the two sorted arrays.
+2. It's really an easy problem and it's just hard because we are using an API interface instead of an array.
+
+Time Complexity: O(N * Log(N));
+Space Complexity: O(1);

@@ -1,0 +1,7 @@
+Approach: 
+
+1. Use recursion to solve the problem
+2. memoize the solution and convert it to dp. that's it. 
+
+Time Complexity: O(N);
+Space Complexity: O(N);

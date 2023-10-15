@@ -1,0 +1,8 @@
+Approach: 
+
+1. Firstly we know that we need to keep track of 2 variables which are remaining steps and position.
+2. Use top-down dynamic programming approach to get the number of possible steps for each position.
+3. Return the steps for starting at 0 with steps number of remaining steps.
+
+Time Complexity: O(3^N);
+Space Complexity: O(N*N);

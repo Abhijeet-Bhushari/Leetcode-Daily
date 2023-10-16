@@ -1,0 +1,7 @@
+Approach: 
+
+1. We know the formula of ncr to get each element for each row
+2. we just have to reuse the first calculated part from the formula to get the optimized solution.
+
+Time Complexity: O(N);
+Space Complexity: O(1);

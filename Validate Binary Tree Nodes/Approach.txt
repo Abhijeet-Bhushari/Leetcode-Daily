@@ -1,0 +1,7 @@
+Approach: 
+
+1. Find the nodes which can be reached from each node and find the root node by using the fact that it won't be the child of any other node. 
+2. use recursion to iterate over the tree and if the number of nodes iterated is not equal to the number of nodes given then return false.
+
+Time Complexity: O(N);
+Space Complexity: O(N);

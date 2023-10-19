@@ -1,0 +1,8 @@
+Approach:
+
+1. Edit the string to remove the last character when we come across a '#' character in the string. 
+2. create the two modified strings and compare them and return the result.
+
+Time complexity: O(N*N);
+Space complexity: O(N);
+

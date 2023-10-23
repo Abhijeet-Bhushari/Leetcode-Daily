@@ -1,0 +1,6 @@
+Approach: 
+
+simply divide the number by 4 till it becomes 1 else return false
+
+Time Complexity: O(log(n));
+Space Complexity: O(1);

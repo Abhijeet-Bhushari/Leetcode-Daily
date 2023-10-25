@@ -1,0 +1,8 @@
+Approach:
+
+1. We understand that the brute force approach will be to create the entire string and find the element. Not feasible. 
+2. For each string calculate which part contributes to the final element till you reach the element. 
+3. use the relation that each element will contribute equally in the final string. remove the unrequired half.
+
+Time complexity: O(N);
+Space complexity: O(1);

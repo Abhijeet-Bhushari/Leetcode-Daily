@@ -1,0 +1,10 @@
+Approach:
+
+1. Create a map to store the number of trees which can be formed with each array element as a root node.
+2. Update the map if you find a factor in the array for the current element and store the updated number of trees which can be formed. 
+3. return the sum of all the elements of the map.
+
+Time complexity: O(N**1.5);
+Space complexity: O(N);
+
+Solution is found using 2D Dynamic Programming.

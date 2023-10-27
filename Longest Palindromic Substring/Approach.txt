@@ -1,0 +1,10 @@
+Approach:
+
+1. We need to check for each center what is the largest palindrome formed around it is.
+2. To do this we start from the center and move outwards. when we find that right and left do not match anymore then break.
+3. Save the string which is the longest palindrome around that center if it is the longest palindrome till now. 
+
+Note: starting to check if string is palindrome is there from the center is important to achieve constant time for larger palindrome.
+
+Time complexity: O(N*N);
+Space Complexity: O(1);

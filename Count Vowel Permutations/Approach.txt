@@ -1,0 +1,11 @@
+Approach: 
+
+1. First I solved the problem through recursion and memoized the recursion approach. The time complexity was herendous.
+2. The Intended solution solves this problem through maintaining the count of last occuring characters. Very nice solution. I still am amazed 
+at how people can devise such solutions. Great indeed. 
+
+Time Complexity: O(N);
+Space Complexity: O(1);
+
+To understand the solution draw the transition tree of which characters follow and all the strings possible. 
+Try finding a way to store the count of all the last occuring a, e, i, o and u's. That's your answer. 

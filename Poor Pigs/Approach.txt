@@ -1,0 +1,7 @@
+Approach
+
+1. Through trial and error find the minimum number of pigs for a fixed number of trials for different number of buckets. 
+2. You will get a relation between how the number of pigs required increases with the buckets. that's the solution.
+
+Time complexity: O(log(n)base(Trials + 1));
+Space complexity: O(1);

@@ -1,0 +1,8 @@
+Approach:
+
+1. Realize that the time complexity which will be required minimum will be N*log(N)*log(A)
+2. Sort the array using custom comparator by calculating the hamming weights of each element and comparing them.
+3. If both hamming weights are equal return a < b
+
+Time complexity: O(N*log(N*A));
+Space complexity: O(1);

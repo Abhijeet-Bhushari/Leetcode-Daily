@@ -1,0 +1,6 @@
+Approach:
+
+1. We can use the property of xor which tells that if a^b = c then a = b^c.
+
+Time Complexity: O(N);
+Space Complexity: O(1);

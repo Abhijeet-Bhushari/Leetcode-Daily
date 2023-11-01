@@ -1,0 +1,10 @@
+Approach:
+
+1. traverse the BST and store the count of each occurence in a map.
+2. Traverse the map and store the elements with the maximum count in a vector
+3. Return the vector.
+
+Time complexity: O(N);
+Space Complexity: O(N);
+
+Can be done in O(1) space not sure how.

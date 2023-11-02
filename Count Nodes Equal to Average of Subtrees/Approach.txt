@@ -1,0 +1,9 @@
+Approach:
+
+1. Use recursion to get the length of each left and right subtree and the sum of nodes of left and right subtrees. 
+2. calculate the value for that node and its length and calculate the average
+3. If average is equal to root->val increase the count.
+4. return length and sum to the upper tree.
+
+Time complexity: O(N);
+Space Complexity: O(N);

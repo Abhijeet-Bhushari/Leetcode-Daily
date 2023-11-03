@@ -1,0 +1,8 @@
+Approach:
+
+1. We need a vector of operations to be created. 
+2. for each element from the stream check if it fits at that position.
+3. if yes check for the next element in target. 
+
+Time complexity: O(N);
+Space Complexity: O(1);

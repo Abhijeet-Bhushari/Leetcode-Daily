@@ -1,0 +1,7 @@
+Approach:
+
+1. get the ant at the farthest distance from the other end.
+2. return that value.
+
+Time complexity: O(N);
+Space complexity: O(1);

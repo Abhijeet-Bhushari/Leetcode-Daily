@@ -1,0 +1,6 @@
+Approach:
+
+1. Very easy aptitude problem. This can be solved by calculating the number of consecutive wins for the current highest element.
+
+Time complexity: O(n);
+Space complexity: O(1);

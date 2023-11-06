@@ -1,0 +1,10 @@
+Approach:
+
+1. Use a data structure which allows you to get the minimum unreserved seat in constant time. 
+2. Unreserving a seat should take minimum time possible which in this case would be O(log(N)).
+
+Time complexity: O(N + q*log(q));
+Space complexity: O(N);
+
+At first, I tried to solve this problem using a vector but the problem with vector is that no matter how much we optimize the minimum found function 
+it won't be O(1) at any cost. so using another data structure seems like an obvious choice.

@@ -1,0 +1,7 @@
+Approach:
+
+1. Store the time taken by each monster to reach the city in a priority queue and check if you kill it in time. 
+
+Time Complexity: O(n);
+Space Complexity: O(n);
+

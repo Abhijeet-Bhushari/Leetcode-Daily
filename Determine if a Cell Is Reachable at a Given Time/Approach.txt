@@ -1,0 +1,9 @@
+Approach:
+
+1. Get the minimum time required to get to the destination. you know how to do that. 
+2. if the initial position is same as the final position and the time is exactly equal to 1 then return false.
+
+Time Complexity: O(1);
+Space Complexity: O(1);
+
+ezzy peezy

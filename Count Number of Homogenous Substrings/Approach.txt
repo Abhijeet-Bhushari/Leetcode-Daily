@@ -1,0 +1,6 @@
+Approach:
+
+1. Just follow the greedy approach. count the number of times it appears consequently and add it to the final answer after transforming it. 
+
+Time Complexity: O(N);
+Space Complexity: O(1);

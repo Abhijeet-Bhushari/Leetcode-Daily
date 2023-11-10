@@ -1,0 +1,8 @@
+Approach:
+
+1. Store the adjacent elements to each element in a map to access it in less time.
+2. Start from the element which has a single adjacent element and set current to that adjacent element.
+3. Like this push all the elements to the final answer vector. 
+
+Time complexity: O(N);
+Space complexity: O(N);

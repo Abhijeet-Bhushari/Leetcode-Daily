@@ -1,0 +1,6 @@
+Approach:
+
+1. get the vowels and sort them and return the new string formed.
+
+Time Complexity: O(Nlog(N));
+Space Complexity: O(N);

@@ -1,0 +1,7 @@
+Approach:
+
+I have tried solving it with passing 22 test cases and i have not found the actual solution
+
+Time Complexity: 
+Space Complexity:
+

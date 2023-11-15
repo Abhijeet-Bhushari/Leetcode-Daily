@@ -1,0 +1,6 @@
+Approach:
+
+1. Sort the elements of the array and traverse them changing each of them to the highest possible value for that position.
+
+Time complexity: O(N*log(N));
+Space Complexity: O(N);

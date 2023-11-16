@@ -1,0 +1,9 @@
+Approach:
+
+1. Create the n+1 strings and store them in a map. 
+2. In the end we will find a string which doesn't exist in nums.
+
+Time complexity: O(N*N);
+Space Complexity: O(N);
+
+A better solution exists which is just genius. checkout the editorial for that.

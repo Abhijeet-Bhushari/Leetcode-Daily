@@ -1,0 +1,6 @@
+Approach:
+
+1. Sort the array and return the max sum of the elements from the start and end.
+
+Time Complexity: O(N*log(N));
+Space Complexity: O(1);

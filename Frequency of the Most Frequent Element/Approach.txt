@@ -1,0 +1,7 @@
+Approach:
+
+1. Ad hoc 
+
+Time complexity: O(N);
+Space complexity: O(1);
+

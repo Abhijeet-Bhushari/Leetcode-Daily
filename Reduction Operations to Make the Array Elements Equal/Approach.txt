@@ -1,0 +1,6 @@
+Approach:
+
+1. Store all the unique elements in a heap and in a map store the frequencies.
+
+Time complexity: O(N*log(N));
+Space complexity: O(N);

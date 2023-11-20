@@ -1,0 +1,7 @@
+Approach:
+
+1. Simple question just get the time complexity to O(n);
+
+Time complexity: O(N);
+Space Complexity: O(N);
+

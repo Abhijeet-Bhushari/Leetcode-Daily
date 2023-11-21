@@ -1,0 +1,7 @@
+Approach:
+
+1. Get the rev array and store the difference for each nums and rev in a map. 
+2. for each value count the number of possible pairs which can be created.
+
+Time complexity: O(N);
+Space Complexity: O(N);

@@ -1,0 +1,8 @@
+Approach:
+
+1. Notice the fact that for each diagonal the sum of row + column is the same. 
+2. Store the same diagonal elements in a map in a group.
+3. Transfer these elements in a vector finally.
+
+Time complexity: O(N);
+Space complexity: O(N);

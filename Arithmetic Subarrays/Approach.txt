@@ -1,0 +1,7 @@
+Approach:
+
+1. Apply brute force method to get the answer. 
+2. Better answer exists. 
+
+Time complexity: O(m*n*(log(n)));
+Space Complexity: O(n);

@@ -1,0 +1,7 @@
+Approach:
+
+1. Easy question. Just sort the vector and that's all you need to know.
+
+Time Complexity: O(N*log(N));
+Space Complexity: O(1);
+

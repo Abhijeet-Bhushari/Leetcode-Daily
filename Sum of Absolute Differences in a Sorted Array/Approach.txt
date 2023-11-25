@@ -1,0 +1,6 @@
+Approach:
+
+1. Calculate the answer of the first element and from that you will be able to find the answer to the rest of them. 
+
+Time Complexity: O(N);
+Space Complexity: O(N);

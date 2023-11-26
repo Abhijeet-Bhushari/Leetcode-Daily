@@ -1,0 +1,4 @@
+Approach:
+
+1. I haven't solved the problem yet. This solution is my try at it. It passed 9 test cases. There is some logical issue. 
+

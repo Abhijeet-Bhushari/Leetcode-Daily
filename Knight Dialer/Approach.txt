@@ -1,0 +1,6 @@
+Approach: 
+
+1. Top-down Dynamic Programming because I still don't know Bottom-up DP.
+
+Time Complexity: O(N*2^N);
+Space Complexity: O(N*10);

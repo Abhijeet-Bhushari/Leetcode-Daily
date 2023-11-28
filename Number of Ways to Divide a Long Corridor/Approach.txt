@@ -1,0 +1,6 @@
+Approach:
+
+1. Use combinatorics and just return the product of all the plants +1 which are present between two seats.
+
+Time Complexity: O(N);
+Space Complexity: O(1);

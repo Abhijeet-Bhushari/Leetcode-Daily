@@ -1,0 +1,6 @@
+Approach:
+
+1. Solving using mathematical induction and recursion.
+
+Time Complexity: O(log(N)^2);
+Space Complexity: O(1);

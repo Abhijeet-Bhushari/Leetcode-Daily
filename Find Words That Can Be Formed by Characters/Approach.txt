@@ -1,0 +1,8 @@
+Approach:
+
+1. Store the character's frequency present in chars in a map called mp. 
+2. Check if each word can be formed by the characters present in the map.
+
+Time Complexity: O(N);
+Space Complexity: O(N);
+

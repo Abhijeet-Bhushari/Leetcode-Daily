@@ -1,0 +1,7 @@
+Approach:
+
+1. Easy problem can be solved in O(1) time complexity.
+
+Time Complexity: O(1);
+Space Complexity: O(1);
+

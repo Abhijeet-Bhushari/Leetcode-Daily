@@ -1,0 +1,7 @@
+Approach:
+
+1. just pop_back the string till the number is odd.
+2. the time complexity of the pop_back in string is O(1) as per the documentation which specifies it as 'unspecified but generally constant'.
+
+Time complexity: O(N);
+Space Complexity: O(1);

@@ -1,0 +1,7 @@
+Approach:
+
+1. Just simple preorder traversal got to do the trick. 
+
+Time Complexity: O(N);
+Space Complexity: O(1);
+

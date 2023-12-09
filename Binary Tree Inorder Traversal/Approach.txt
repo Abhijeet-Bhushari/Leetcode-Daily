@@ -1,0 +1,8 @@
+Approach:
+
+1. Store the root in a cur Node and try to create an iteration using stack to traverse the tree the way you want it. 
+2. The reason behind using stack is that you would want the left elements entered last to be printed first.
+3. Creating the optimized traversal loop is the challenging part.
+
+Time Complexity: O(N);
+Space Complexity: O(N);

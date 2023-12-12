@@ -1,0 +1,7 @@
+Approach:
+
+1. Find the largest and second larget value in one iteration and return the asked product.
+
+Time Complexity: O(N);
+Space Complexity: O(1);
+

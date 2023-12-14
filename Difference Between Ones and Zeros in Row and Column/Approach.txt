@@ -1,0 +1,6 @@
+Approach:
+
+1. You can store the values of row vector as well as col vector in a single pass. That's all.
+
+Time Complexity: O(N * M);
+Space Complexity: O(N + M);

@@ -1,0 +1,9 @@
+Approach:
+
+1. Using the priority queue is very intuitive but the only problem is updating the entered values when rating change takes place.
+2. Don't worry about the updation and just enter duplicate values in the queue. 
+3. Now while removing the values from the p queue, return the correct values only. 
+
+Time Complexity: changeRating: O(2 * log(N));
+                 highestRating: log(N)^2;
+Space Complexity: O(N);

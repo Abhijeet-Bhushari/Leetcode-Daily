@@ -1,0 +1,13 @@
+Approach:
+
+1. This is a great problem for optimization. 
+2. Brute force solution would be to just implement what the problem asks.
+3. A better solution would be solving it in O(N) space rather than O(M*N) space.
+4. Another solution would be to mask the modified value in the same integer space.
+
+Great problem. I loved it. 
+
+Time Complexity: O(M*N);
+Space Complexity: O(1);
+
+

@@ -1,0 +1,6 @@
+Approach:
+
+1. Find the minimum price chocolate and the second minimum price chocolate and return the money difference if money is greater or equal to sum.
+
+Time Complexity: O(N);
+Space Complexity: O(1);

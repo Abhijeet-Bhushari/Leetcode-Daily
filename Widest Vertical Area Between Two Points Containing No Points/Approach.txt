@@ -1,0 +1,6 @@
+Approach:
+
+1. Just sort the points array. maybe storing in a set would be a better solution time wise but that set counts as an extra space. 
+
+Time Complexity: O(N*Log(N));
+Space Complexity: O(N*Log(N));

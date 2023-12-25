@@ -1,0 +1,7 @@
+Approach:
+
+1. Use recursion to generate all the possible paths or results.
+2. Use memoization over it to reduct time taken
+
+Time Complexity: O(2*N);
+Space Complexity: O(N);
